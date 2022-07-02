@@ -2,14 +2,13 @@
 
 ![yeolife GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=radical) 
 <hr>
-
 <h4>🌻 Me</h4>
-<a href="https://github.com/yeolifeyeolife"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%yeolife%2F&count_bg=%23756D6D&title_bg=%23202020&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-<a href="https://blog.naver.com/yeo2507"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://github.com/yeolife"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeolife&count_bg=%23A4AE9C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+<a href="https://velog.io/@yeolife"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <h4>🌳 Tech Stack</h4>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 
 <h4>🌵 Tools</h4>
 
