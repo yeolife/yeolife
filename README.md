@@ -1,10 +1,10 @@
 <h3>Hi there✋, I'm iOS Developer.</h3><br>
 
-![y25yeo GitHub stats](https://github-readme-stats.vercel.app/api?username=y25yeo&show_icons=true&theme=radical) 
+![yeolife GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolife&show_icons=true&theme=radical) 
 <hr>
 
 <h4>🌻 Me</h4>
-<a href="https://github.com/yeo2507"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fy25yeo%2F&count_bg=%23756D6D&title_bg=%23202020&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+<a href="https://github.com/yeolifeyeolife"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%yeolife%2F&count_bg=%23756D6D&title_bg=%23202020&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <a href="https://blog.naver.com/yeo2507"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
 <h4>🌳 Tech Stack</h4>
