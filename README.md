@@ -1,7 +1,6 @@
 ### 🙋 안녕하세요. 안드로이드 개발자 여창민입니다.
 
 <p>
-  <a href="https://yeo2507.notion.site/PROFILE-ae856bd1898544a1b6beede0a9d6cc6f" target="_blank"><img src="https://img.shields.io/badge/Notion-292929?style=flat-square&logo=Notion&logoColor=white"></a> &nbsp
   <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-F45D48?style=flat-square&logo=tistory&logoColor=white"></a>
 </p>
 
@@ -86,10 +85,6 @@
 </details>
 
 #
-
-<br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507)
 
 <br>
 
