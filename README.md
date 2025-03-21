@@ -1,16 +1,94 @@
-## Hi there 👋
+### 🙋 안녕하세요. 안드로이드 개발자 여창민입니다.
 
-<!--
-**yeolife/yeolife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://yeolife.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-F45D48?style=flat-square&logo=tistory&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+### 🐾 History
++ 삼성 청년 SW 아카데미 11기 모바일 트랙 (2024.01 - 2024.12) </br>
+  + 구글 플레이스토어 <a href="https://play.google.com/store/apps/details?id=com.ssafy.frogdetox&hl=ko">'LLM 기반 투두리스트 & 도파민 디톡스 앱'</a> 배포
+    + 프로젝트 우수상 수상 
++ 음악 유사성 판별 데이터를 활용한 아이디어 해커톤 (2022.11.15 - 2022.12.04) </br>
+  + <a href="https://www.etnews.com/20221220000072">'감성 분석을 통한 멜로디 추천 서비스'</a>로 우수상 수상
++ 삼성SDS 하계 대학생 알고리즘 특강 (2022.07 - 2022.07) </br>
+  + SW역량테스트 Pro등급 취득
++ 정보처리기사 취득 (2022.06.17) </br>
++ 케이쉴드 주니어 7기 취약점 진단 트랙 (2021.08 - 2021.11) </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 📗 Team Projects
+
+<details>
+  <summary> 사내 협업 관리 플랫폼 with <b>삼성SDI</b> (2024.10.14 ~ 2024.11.19) </summary>
+
+ #### 개요  
+<b>슈퍼보드</b>는 언제 어디서든 원활한 협업을 지원하는 프로젝트 관리 플랫폼입니다.
+칸반 보드를 기반으로 작업을 직관적으로 파악할 수 있으며, 실시간 협업 및 오프라인 동기화 기능을 제공하여 원격 환경에서도 최적의 협업 경험을 제공합니다.
+
+ #### 담당 역할
++ 안드로이드 개발
++ 오프라인 환경에서도 안정적인 데이터 운영을 위한 Room DB 설계 및 구축<br>
++ 객체 동기화 시 변경된 컬럼 식별을 위한 비트마스킹 기법 구현<br>
+  + 저장공간 효율 28.1% 향상
++ 비트마스킹 로직을 KSP와 Annotation을 적용해 추상화 <br>
+  + 업데이트 성능: 메모리 사용량 42.8% 감소, 수행 시간 31.9% 단축 (<a href="https://yeolife.tistory.com/107">상세보기</a>)
++ 칸반 카드 드래그 앤 드롭 시 발생하는 순서 충돌 방지 알고리즘 구현<br>
+  + 분수 인덱싱 알고리즘 구현 (숫자 값 간격을 넓혀 타겟에 사잇값 할당)
+</details>
+
+<details>
+  <summary> 어린이 자연생태 AR 학습 플랫폼 (2024.08.26 ~ 2024.10.11) </summary>
+
+ #### 개요  
+<b>이게 모야</b>는 어린이가 증강현실을 활용해 자연을 탐험하며 학습할 수 있는 플랫폼입니다. AR NPC와의 상호작용을 통해 미션을 수행하며, 탐험 중 생긴 궁금증은 AI 챗봇을 통해 즉시 해결할 수 있습니다. 이 플랫폼은 미션 수행을 통한 동기부여 제공과 자연과의 교감을 형성하여 어린이의 건강한 성장을 돕는 것을 목표로 합니다.
+
+ #### 담당 역할
++ 안드로이드 개발
++ 자연 학습 큐레이팅을 위한 증강현실 상호작용 구현
+  + HitTest를 활용한 AR 배치 안정성 확보
+  + 불필요한 AR 환경 인식 분기 처리로 카메라 프레임 연산 최적화
++ Fused Location Provide 활용
+  + 목적지에 AR 객체를 배치하기 위한 거리 연산
+  + 거리별 GPS 우선순위 조정을 통해 배터리 효율 최적화
++ 생태공원 안내 음성 챗봇 개발
+</details>
+
+<details>
+  <summary> 온라인 요가 티칭 플랫폼 (2024.07.05 ~ 2024.08.16) </summary>
+
+ #### 개요  
+<b>요가나비</b>는 요가의 느린 동작과 좁은 활동 반경이라는 특성을 활용하여, 온라인으로 요가를 배우는 플랫폼입니다. P2P 방식의 화상 강의를 통해 미디어 트랙을 서버를 거치지 않고 사용자 간 직접 전송하여 프라이버시를 보장합니다. 또한 사용자는 녹화된 강의를 보며 따라 하면서, AI를 통해 자세의 정확도를 실시간으로 확인할 수 있습니다. 온디바이스(On-device) AI를 활용하기 때문에 화면이 서버로 전송되지 않아 개인정보 보호가 강화되며, 사용자에게 최적화된 개인화 서비스를 제공합니다.
+
+ #### 담당 역할
++ 안드로이드 개발
++ WebRTC 기반 P2P 실시간 화상 강의 구현
++ Ktor 기반 WebSocket 시그널링 서버 구축
++ Paging3 적용으로 서버 데이터 호출 효율화
++ FCM을 활용한 푸시 알림 기능 구현
+
+</details>
+
+<details>
+  <summary> 도파민 디톡스 & 투두리스트 앱 (2024.04.18 ~ 2024.06.30) </summary>
+
+ #### 개요  
+<b>청깨구리</b>는 도파민 중독으로 인해 생활 패턴이 불규칙해지는 현대인을 위한 투두리스트 앱입니다. 생성형 AI를 활용하여 최근 작성한 투두리스트를 분석하고, 사용자에게 최적화된 할 일을 추천합니다. 또한, 수면 시간에는 게이미피케이션 요소를 적용하여 자연스럽게 앱 사용을 제한하고, 도파민 디톡스를 유도합니다.
+
+ #### 담당 역할
++ 안드로이드 개발
++ 구글 플레이스토어 배포
++ OpenAI API를 활용한 투두 추천 LLM 프롬프팅
++ Realtime Firebase 기반 투두 CRUD 기능 구현
++ Alarm Manager를 이용한 투두 알람 기능 구현
+
+</details>
+
+#
+
+<br>
+<div align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeo2507)](https://solved.ac/yeo2507)
+  
+</div>
